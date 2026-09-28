@@ -16,7 +16,7 @@ A collection of playable HTML5 games that bypass school game blockers. This proj
 - **Cuphead**
 - **Bad Piggies**
 - **Angry Birds**
-- **gn-math Library** (Complete collection)
+- **every game in gn-math** (requires internet)
 - *More games coming soon*
 
 ## Getting Started
@@ -41,8 +41,7 @@ A collection of playable HTML5 games that bypass school game blockers. This proj
 
 ## Usage
 
-Simply double-click any `.html` file to open it in your default browser, or right-click and select "Open with" to choose a specific browser.
-
+writing this soon
 ## Roadmap
 
 - [ ] Add more classic arcade games
@@ -51,16 +50,6 @@ Simply double-click any `.html` file to open it in your default browser, or righ
 - [ ] Add more educational games from gn-math
 
 See the [open issues](https://github.com/Jo-Nathan-1/Unblocked-GamesKit/issues) for a full list of planned features.
-
-## Contributing
-
-Contributions are welcome! If you'd like to add more games or improve existing ones:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AddNewGame`)
-3. Commit your changes (`git commit -m 'Add new game'`)
-4. Push to the branch (`git push origin feature/AddNewGame`)
-5. Open a pull request
 
 ## License
 
