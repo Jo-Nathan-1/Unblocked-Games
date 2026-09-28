@@ -9,6 +9,7 @@
   # Unblocked-GamesKit
 
 A collection of playable HTML5 games that bypass school game blockers. This project compiles open-source games from various HTML5 libraries into standalone `.html` files that can't be blocked by traditional game-blocking software.
+## Download
 
 ## Features
 
@@ -21,15 +22,6 @@ A collection of playable HTML5 games that bypass school game blockers. This proj
 - [gams](https://github.com/Gams-Offline/Gams)
 - [gn-math](gn-math.dev) 
 
-## Getting Started
-
-### Prerequisites
-
-- Any modern web browser (Chrome, Firefox, Safari, Edge, etc.)
-
-### Installation
-install the .zip
-## Acknowledgments
 
 - All open-source game libraries and creators
 - HTML5 game development community
