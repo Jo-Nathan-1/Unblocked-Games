@@ -6,7 +6,8 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  # Unblocked-GamesKit
+  # Unblocked Games Kit
+everything you need for the school year  
 
 A collection of playable HTML5 games that bypass school game blockers. This project compiles open-source games from various HTML5 libraries into standalone `.html` files that can't be blocked by traditional game-blocking software.
 ## Download
