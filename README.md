@@ -33,6 +33,6 @@ install the .zip
 
 - All open-source game libraries and creators
 - HTML5 game development community
-- gn-math for the educational game library
+- gn-math for the unblocked games and web ports library
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
