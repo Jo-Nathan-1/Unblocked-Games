@@ -12,7 +12,7 @@ A collection of playable HTML5 games that bypass school game blockers. This proj
 - **Easy to Use**: Just open the `.html` files in any browser
 
 ## Games Included
-- [gams](https://github.com/Jo-Nathan-1/Unblocked-GamesKit/issues](https://github.com/Gams-Offline/Gams))
+- [gams]((https://github.com/Gams-Offline/Gams))
 - **Cuphead**
 - **Bad Piggies**
 - **Angry Birds**
