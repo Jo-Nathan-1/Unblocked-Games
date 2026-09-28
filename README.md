@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="main/logo.png" alt="Logo" width="80" height="80">
+   <img src="https://raw.githubusercontent.com/Jo-Nathan-1/Unblocked-GamesKit/main/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
