@@ -22,37 +22,7 @@ A collection of playable HTML5 games that bypass school game blockers. This proj
 - Any modern web browser (Chrome, Firefox, Safari, Edge, etc.)
 
 ### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Jo-Nathan-1/Unblocked-GamesKit.git
-   ```
-
-2. Navigate to the project directory:
-   ```sh
-   cd Unblocked-GamesKit
-   ```
-
-3. Open any `.html` file in your browser to play a game
-
-## Usage
-
-writing this soon
-## Roadmap
-
-- [ ] Add more classic arcade games
-- [ ] Improve game graphics and performance
-- [ ] Create a game launcher/menu
-- [ ] Add more educational games from gn-math
-
-See the [open issues](https://github.com/Jo-Nathan-1/Unblocked-GamesKit/issues) for a full list of planned features.
-
-## License
-
-This project is distributed under the MIT License. See `LICENSE.txt` for more information.
-
-Note: Individual games may have their own licenses from their original creators.
-
+install the .zip
 ## Acknowledgments
 
 - All open-source game libraries and creators
