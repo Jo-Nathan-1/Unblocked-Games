@@ -26,7 +26,7 @@ wide variety of links, games, and more for school. all can be run in an html.
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Jo-Nathan-1/Unblocked-GamesKit/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
