@@ -13,7 +13,7 @@ A collection of playable HTML5 games that bypass school game blockers. This proj
 
 ## Games and libraries
 - [gams](https://github.com/Gams-Offline/Gams)
-- ## [gn-math](gn-math.dev) 
+- [gn-math](gn-math.dev) 
 
 ## Getting Started
 
