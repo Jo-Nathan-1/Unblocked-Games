@@ -5,7 +5,8 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
-# Unblocked-GamesKit
+
+  # Unblocked-GamesKit
 
 A collection of playable HTML5 games that bypass school game blockers. This project compiles open-source games from various HTML5 libraries into standalone `.html` files that can't be blocked by traditional game-blocking software.
 
