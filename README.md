@@ -11,14 +11,9 @@ A collection of playable HTML5 games that bypass school game blockers. This proj
 - **Open Source**: Built from various open-source HTML5 game libraries
 - **Easy to Use**: Just open the `.html` files in any browser
 
-## Games Included
+## Games and libraries
 - [gams](https://github.com/Gams-Offline/Gams)
-- 
-- **Cuphead**
-- **Bad Piggies**
-- **Angry Birds**
-- **every game in gn-math** (requires internet)
-- *More games coming soon*
+- **[gn-math](gn-math.dev)
 
 ## Getting Started
 
