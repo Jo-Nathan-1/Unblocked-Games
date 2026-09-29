@@ -12,33 +12,6 @@ A collection of playable HTML5 games that bypass school game blockers. This proj
 
 ## Download
 
-<div style="margin: 20px 0;">
-  <button onclick="openInBlank()" style="padding: 10px 20px; font-size: 16px; background-color: #0969da; color: white; border: none; border-radius: 6px; cursor: pointer;">Open Game in Blank Tab</button>
-  <input type="text" id="filePath" placeholder="Enter file path (e.g., index.html)" style="padding: 10px; margin-left: 10px; border: 1px solid #ccc; border-radius: 4px; width: 250px;">
-</div>
-
-<script>
-function openInBlank() {
-  const filePath = document.getElementById('filePath').value || 'index.html';
-  const owner = 'Jo-Nathan-1';
-  const repo = 'Unblocked-GamesKit';
-  const branch = 'main';
-  const url = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${filePath}`;
-  
-  fetch(url)
-    .then(r => {
-      if (!r.ok) throw new Error('File not found');
-      return r.text();
-    })
-    .then(html => {
-      const w = window.open('about:blank');
-      w.document.write(html);
-      w.document.close();
-    })
-    .catch(err => alert('Error: ' + err.message + '\nMake sure the file path is correct.'));
-}
-</script>
-
 ## Features
 
 - **Unblockable**: Pure HTML/CSS/JavaScript games that work around school network filters
@@ -47,7 +20,8 @@ function openInBlank() {
 - **Easy to Use**: Just open the `.html` files in any browser
 
 ## Games and libraries
-- [gams](https://github.com/Gams-Offline/Gams) 
+- [gams](https://github.com/Gams-Offline/Gams)
+- [gn-math](gn-math.dev) 
 
 - All open-source game libraries and creators
 - HTML5 game development community
