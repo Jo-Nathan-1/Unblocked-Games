@@ -8,7 +8,8 @@
 
   # Unblocked Games Kit
 everything you need for the school year  
-A collection of playable HTML5 games that bypass school game blockers. This project compiles open-source games from various HTML5 libraries into standalone `.html` files that can't be blocked by traditional game-blocking software.
+A collection of playable HTML5 games that bypass school game blockers. This project compiles open-source games from various HTML5 libraries into standalone `.html` files that can't be blocked by traditional network filters.
+
 ## Download
 
 ## Features
@@ -19,7 +20,7 @@ A collection of playable HTML5 games that bypass school game blockers. This proj
 - **Easy to Use**: Just open the `.html` files in any browser
 
 ## Games and libraries
-- [gams](https://github.com/Gams-Offline/Gams)
+- [gams](https://github.com/Gams-Offline/Gams) - <a href="javascript:(function(){const owner='Jo-Nathan-1';const repo='Unblocked-GamesKit';const branch='main';const filePath='index.html';const url=`https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${filePath}`;fetch(url).then(r=>r.text()).then(html=>{const w=window.open('about:blank');w.document.write(html);w.document.close();});})();">Open in blank</a>
 - [gn-math](gn-math.dev) 
 
 
